@@ -7,15 +7,19 @@
   background: #ffffff;
 }
 .search-form {
-  width: 150px;
+  width: 100px;
   font-size: 14px;
 }
 .search-form input {
   text-align: center;
   color: #262626;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  width: 125px;
+
 }
 .image-wrapper {
-  height: 50px;
+  /* height: 50px; */
 }
 
 .logo-image {
@@ -27,5 +31,5 @@
 }
 
 .social {
-  width: 50px;
+  width: 30px;
 }
